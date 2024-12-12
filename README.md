@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MwarumbaH-5523
-- 👀 I’m interested in Python Language, MySQL
+- 👀 I’m interested in Python, MySQL, Linux and Windows.
 - 🌱 I’m currently learning Python, MySQL and Cyber Security.
 - 💞️ I’m looking to collaborate on APIs tests and creation , backend connection...
 - 📫 How to reach me email : harrymbui@gmail.com
